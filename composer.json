@@ -1,6 +1,7 @@
 {
     "name": "silah/kafka-queue",
     "description": "php kafka config files",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Silah\\KafkaQueue\\": "src/"
