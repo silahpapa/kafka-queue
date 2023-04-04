@@ -14,8 +14,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "silah/kafka-queue": "1.0.0@dev"
+        "php": "^8.0"
     },
     "license": "MIT",
     "type": "library",
