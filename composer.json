@@ -14,10 +14,11 @@
         }
     ],
     "require": {
-        "php": ">=8.0"
+        "php": "^8.0",
+        "silah/kafka-queue": "1.0.0@dev"
     },
     "license": "MIT",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
