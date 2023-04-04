@@ -15,5 +15,9 @@
     ],
     "require": {
         "php": ">=8.0"
-    }
+    },
+    "license": "MIT",
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
