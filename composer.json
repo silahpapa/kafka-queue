@@ -2,6 +2,9 @@
     "name": "silah/kafka-queue",
     "description": "php kafka config files",
     "version": "1.0.0",
+    "license": "MIT",
+    "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Silah\\KafkaQueue\\": "src/"
@@ -15,9 +18,5 @@
     ],
     "require": {
         "php": "^8.0"
-    },
-    "license": "MIT",
-    "type": "library",
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
