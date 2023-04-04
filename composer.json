@@ -1,0 +1,16 @@
+{
+    "name": "silah/kafka-queue",
+    "description": "php kafka config files",
+    "autoload": {
+        "psr-4": {
+            "Silah\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "silah",
+            "email": "silakosy@gmail.com"
+        }
+    ],
+    "require": {}
+}
